@@ -1,4 +1,5 @@
-Table: Function-level IoU comparison for sparse and hybrid reward during RL training.
-<img width="1200" height="800" alt="Training_Dynamics_IoU" src="https://github.com/user-attachments/assets/ded0327d-7413-4af2-aec3-fcb7a38f1307" />
+Figure 1: [Function-level IoU comparison on the training set for sparse and hybrid reward during RL training](Training_Dynamics_IoU.png)
+
+Figure 2: [Function-level IoU on SWE-bench_Verified during training](Training_dynamics_IoU_swebench_verified)
 
                                                                 
